@@ -1,4 +1,4 @@
-//Learnprogramo
+
 //---------------------------Vaccine Management System project by using c++ programming language--------------------------
 //---------------------------------------header file start-----------------------------------------
 #include<iostream>
